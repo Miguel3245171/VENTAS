@@ -1,0 +1,4 @@
+<INICIO>
+0.Iniciar
+1.Descargar las ventas del sistema
+<FIN>

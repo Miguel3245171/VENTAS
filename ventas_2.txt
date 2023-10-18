@@ -2,4 +2,5 @@
 0.Iniciar
 1.Descargar las ventas del sistema
 2.Obtener detalle por pais de las ventas
+3.Solo para país Perú
 <FIN>
